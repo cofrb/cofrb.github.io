@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cofrb.github.io/sitemap/sitemap.txt
